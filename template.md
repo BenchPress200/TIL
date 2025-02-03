@@ -35,9 +35,9 @@
 
 ### 🚀 내일 할 일 정리  
 
-- [ ] TODO 1  
-- [ ] TODO 2  
-- [ ] TODO 3  
+- TODO 1  
+- TODO 2  
+- TODO 3  
 
 <br>
 
